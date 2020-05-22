@@ -1,0 +1,23 @@
+{
+	"name": "root",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"coverage": "CI=true yarn test --coverage --watchAll=false || true"
+	},
+	"jest": {
+		"collectCoverageFrom": [
+			"**/*.js",
+			"!**/node_modules/**",
+			"!**/vendor/**",
+			"!**/__tests__/**"
+		]
+	},
+	"devDependencies": {
+		"lerna": "^3.21.0"
+	},
+	"workspaces": [
+		"packages/*"
+	],
+	"npmClient": "yarn"
+}
