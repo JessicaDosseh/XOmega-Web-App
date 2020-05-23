@@ -1,0 +1,6 @@
+[submodule "packages/Omega-Web-App-Expo"]
+	path = packages/Omega-Web-App-Expo
+	url = https://github.com/JessicaDosseh/Omega-Web-App-Expo.git
+[submodule "packages/Omega-Expo"]
+	path = packages/Omega-Expo
+	url = https://github.com/JessicaDosseh/Omega-Expo.git
