@@ -1,5 +1,4 @@
-<h1 align="canter"><img src="omega-logo.png" /></h1>
-<br>
+<h1 align="center"><img src="omega-logo.png" /></h1>
 
 <h1 align="center">Welcome to Omega 2020</h1>
 <p align="center">The online sudoku app.</p>
