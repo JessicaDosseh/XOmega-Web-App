@@ -9,9 +9,9 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" />
   </a>
 
-<a href="https://codeclimate.com/github/JessicaDosseh/Omega-Web-App/maintainability"><img src="https://api.codeclimate.com/v1/badges/bf3221e50181cdd4d9df/maintainability" /></a>
+- [ ] Maintainability Badge <a href="https://codeclimate.com/github/JessicaDosseh/Omega-Web-App/maintainability"><img src="https://api.codeclimate.com/v1/badges/bf3221e50181cdd4d9df/maintainability" /></a>
 
-<a href="https://codeclimate.com/github/JessicaDosseh/Omega-Web-App/test_coverage"><img src="https://api.codeclimate.com/v1/badges/bf3221e50181cdd4d9df/test_coverage" /></a>
+- [ ] Test Coverage Badge <a href="https://codeclimate.com/github/JessicaDosseh/Omega-Web-App/test_coverage"><img src="https://api.codeclimate.com/v1/badges/bf3221e50181cdd4d9df/test_coverage" /></a>
 
 </p>
 <br>
